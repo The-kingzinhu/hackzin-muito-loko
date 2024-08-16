@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
-    Title = "hackzin muito loko Hub | Blox Fruits",
+    Title = "aaaaiiiinnnn neyma Hub | Blox Fruits",
     SubTitle = "by .the_k1ng",
     TabWidth = 160,
     Size = UDim2.fromOffset(500, 320),
@@ -7451,8 +7451,8 @@ end)
 end
 ----------------------------------------------------------------------------------------------------------------------------------------------
 Fluent:Notify({
-    Title = "hackzin muito loko Hub",
-    Content = "The script has been loaded.",
+    Title = "aaaaiiiinnnn neyma Hub",
+    Content = "o neymar comeu teu cu.",
     Durtion = 3
 })
 warn("hackzin muito loko Hub Loading Completed !!")
